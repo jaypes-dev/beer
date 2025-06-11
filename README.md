@@ -1,6 +1,5 @@
 # beer
 ### Beer Recipes
-### Everyone loves beer, right?
-### Some All grain recipes that have been kicking around for a while
-### Better to share than to keep to ones self
+Some homebrew xml files that I have had kicking around for years, some of them even make beer!
+Best shared
 ![](images/mmm.gif)
